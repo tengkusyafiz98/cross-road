@@ -58,6 +58,8 @@ button {
   position: absolute;
   bottom: 80px;
   right: 50px;
+  background-color:blue;
+  color:white;
 }
 
 
